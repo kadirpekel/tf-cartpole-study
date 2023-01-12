@@ -1,8 +1,6 @@
 # tf-cartpole-study
 
-The goal is to create a minimal yet successful training setup for a cartpole agent.
-
-`tf-agents`
+The goal is to create a minimal yet successful training setup for a cartpole agent employing only the `tf-agents` library.
 
 ### Setup
 
