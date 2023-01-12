@@ -92,7 +92,7 @@ agent.train_step_counter.assign(0)
 
 eval_policy = None
 try:
-    policy = tf.saved_model.load(save_dir)
+    eval_policy = tf.saved_model.load(save_dir)
 except:
     print('No saved state found, training...')
     episodes = []
