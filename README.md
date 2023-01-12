@@ -1,5 +1,9 @@
 # tf-cartpole-study
 
+The goal is to create a minimal yet successful training setup for a cartpole agent.
+
+`tf-agents`
+
 ### Setup
 
 Follow the instructions here: https://developer.apple.com/metal/tensorflow-plugin/
